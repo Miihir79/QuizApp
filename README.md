@@ -22,7 +22,8 @@ Bug fixes & darkmode: <a href="https://github.com/mukulasija">***Mukul Asija***<
 
 <table>
   <tr>
-    <td><img src="" width="350">
-    <td><img src="" width="350">
-    <td><img src="" width="350">
+    <td><img src="https://user-images.githubusercontent.com/66465511/150847677-4004d363-2193-459e-bb96-9d87b92c0f6c.jpg" width="350">
+    <td><img src="https://user-images.githubusercontent.com/66465511/150847668-50e996e7-4a97-4e49-8393-f23d415e9860.jpg" width="350">
+    <td><img src="https://user-images.githubusercontent.com/66465511/150847675-40366a2c-115d-4450-a6c0-093d453c3a8a.jpg" width="350">
+    <td><img src="https://user-images.githubusercontent.com/66465511/150847676-a3f2daf9-9b1e-43fd-94b7-652edc0320ea.jpg" width="350">    
 </table>
